@@ -1,0 +1,4 @@
+﻿
+> calculator-app-pro@1.0.0 lint
+> eslint src --ext .js
+
