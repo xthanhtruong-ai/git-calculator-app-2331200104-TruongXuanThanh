@@ -1,6 +1,0 @@
-﻿
-C:\Users\xthan\OneDrive\Desktop\Lab2\calculator-app\src\preload\preload.js
-  1:9  warning  'contextBridge' is assigned a value but never used  no-unused-vars
-
-Γ£û 1 problem (0 errors, 1 warning)
-
